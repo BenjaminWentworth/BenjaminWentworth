@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=Benjamin%20Wentworth&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%7C%20AI%20%26%20SaaS%20Builder&amp;descSize=17&amp;descAlignY=60&amp;descColor=c4b5fd" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Benjamin%20Wentworth&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%7C%20AI%20%26%20SaaS%20Builder&descSize=17&descAlignY=60&descColor=c4b5fd)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header)
 
 ## 🛠️ Tech Stack
 
@@ -81,6 +81,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
 
 
