@@ -18,6 +18,48 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I help businesses turn ideas, workflows, and ecommerce goals into clean, scalable digital products. My focus is not just building pages or connecting APIs — I build **complete product experiences** with strong frontend, reliable backend logic, database structure, third-party integrations, and smooth user flows. Whether you need a Shopify store, an AI-powered feature, or a SaaS MVP, I can help plan, build, and deliver it with a practical, product-focused approach.
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Shopify — Sales, Speed & Better UX
+
+I build stores that look professional, load fast, and convert visitors into customers.
+
+- Theme customization & Shopify 2.0 sections
+- Product pages, cart & checkout improvements
+- Landing pages & CRO optimization
+- Speed optimization & responsive design
+- App integrations & bug fixes
+- Full store redesigns
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Apps, Automation & SaaS MVPs
+
+I build practical tools that solve real business problems — not just simple demos.
+
+- AI chatbots & agents (OpenAI / Claude)
+- Document Q&A & RAG systems
+- Workflow automation & internal dashboards
+- SaaS MVPs from idea to launch
+- Full stack: UI, APIs, auth, DB, payments, deployment
+
+</td>
+</tr>
+</table>
+
+---
+
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header)
 
 ## 🛠️ Tech Stack
@@ -26,86 +68,7 @@
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-**⚡ Frontend**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts&perline=3" />
-
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**🗄️ Backend & Database**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&perline=3" />
-
-<br/><br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**🛒 Shopify & Ecommerce**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=shopify&perline=3" />
-
-<br/><br/>
-
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**🤖 AI & Integrations**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=openai&perline=3" />
-
-<br/><br/>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-**☁️ Cloud & Deployment**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=vercel&perline=3" />
-
-<br/><br/>
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,supabase,shopify,vercel,openai&perline=9" />
 
 </div>
 
