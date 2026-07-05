@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Benjamin%20Wentworth&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%7C%20AI%20%26%20SaaS%20Builder&descSize=17&descAlignY=60&descColor=c4b5fd)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Benjamin%20Wentworth&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%7C%20AI%20and%20SaaS%20Builder&descSize=17&descAlignY=60&descColor=c4b5fd)
 
 <br/>
 
@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benjaminwentworth)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://benjaminwentworth.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin@wentworth.dev)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)
+![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
 
@@ -32,6 +32,12 @@
 
 **⚡ Frontend**
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts&perline=3" />
+
+<br/><br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,6 +46,12 @@
 <td align="center" width="50%">
 
 **🗄️ Backend & Database**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&perline=3" />
+
+<br/><br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,6 +64,12 @@
 
 **🛒 Shopify & Ecommerce**
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=shopify&perline=3" />
+
+<br/><br/>
+
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white)
 
@@ -59,6 +77,12 @@
 <td align="center" width="50%">
 
 **🤖 AI & Integrations**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=openai&perline=3" />
+
+<br/><br/>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
@@ -70,6 +94,12 @@
 <td align="center" colspan="2">
 
 **☁️ Cloud & Deployment**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vercel&perline=3" />
+
+<br/><br/>
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
