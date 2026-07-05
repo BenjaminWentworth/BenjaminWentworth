@@ -60,19 +60,25 @@ I build practical tools that solve real business problems — not just simple de
 
 ---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header)
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,supabase,shopify,vercel,openai&perline=9" />
+<table>
+  <tr>
+    <td align="center" width="160"><b>⚡ Frontend</b><br/><br/>React<br/>Next.js<br/>TypeScript</td>
+    <td align="center" width="160"><b>🗄️ Backend</b><br/><br/>Node.js · Nest.js<br/>Python · Django<br/>Ruby on Rails</td>
+    <td align="center" width="160"><b>💾 Database</b><br/><br/>PostgreSQL · MySQL<br/>MongoDB<br/>Supabase</td>
+    <td align="center" width="160"><b>🛒 Shopify</b><br/><br/>Shopify<br/>Liquid<br/>Shopify 2.0</td>
+    <td align="center" width="160"><b>🤖 AI & APIs</b><br/><br/>OpenAI · Claude<br/>REST APIs<br/>Stripe</td>
+    <td align="center" width="160"><b>☁️ Deployment</b><br/><br/>Vercel</td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
 
